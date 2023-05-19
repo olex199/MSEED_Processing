@@ -1,0 +1,9 @@
+#
+*.user
+*.tlog
+*.obj
+*.iph
+
+Doxygen.log
+
+debug/
