@@ -3,7 +3,9 @@
 *.tlog
 *.obj
 *.iph
+*.suo
 
 Doxygen.log
 
 debug/
+.vs/
